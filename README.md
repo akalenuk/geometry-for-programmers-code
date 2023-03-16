@@ -1,6 +1,8 @@
 # geometry-for-programmers-code
 The source code for the [Geometry for Programmers](https://www.manning.com/books/geometry-for-programmers) book.
 
+![The book looks like this](https://drek4537l1klr.cloudfront.net/kaleniuk/Figures/cover.jpg)
+
 All the code is in Python. There are no specific dependencies on modern Python features or obscure libraries, so any generic 3.x Python will do. 
 
 The code samples only use:
