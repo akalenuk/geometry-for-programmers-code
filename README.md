@@ -1,8 +1,9 @@
 # geometry-for-programmers-code
 The source code for the [Geometry for Programmers](https://www.manning.com/books/geometry-for-programmers) book.
-On Manning: https://www.manning.com/books/geometry-for-programmers
-On Good Reads: https://www.goodreads.com/book/show/61294688-geometry-for-programmers?from_search=true&from_srp=true&qid=pnhOwNieqS&rank=1
-On Amazon: https://www.amazon.com/Geometry-Programmers-Oleksandr-Kaleniuk/dp/1633439607
+
+- On Manning: https://www.manning.com/books/geometry-for-programmers
+- On Good Reads: https://www.goodreads.com/book/show/61294688-geometry-for-programmers?from_search=true&from_srp=true&qid=pnhOwNieqS&rank=1
+- On Amazon: https://www.amazon.com/Geometry-Programmers-Oleksandr-Kaleniuk/dp/1633439607
 
 ![The book looks like this](https://m.media-amazon.com/images/I/41IZGlCh+hL._SX397_BO1,204,203,200_.jpg)
 
